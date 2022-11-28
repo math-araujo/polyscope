@@ -16,6 +16,7 @@ endif()
 
 ## Imgui
 add_subdirectory(imgui)
+add_subdirectory(implot)
 
 ## Argparse
 

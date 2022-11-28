@@ -9,3 +9,6 @@
 [submodule "deps/happly"]
 	path = deps/happly
 	url = https://github.com/nmwsharp/happly.git
+[submodule "deps/implot/implot"]
+	path = deps/implot/implot
+	url = https://github.com/epezent/implot.git
